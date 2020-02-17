@@ -1,6 +1,10 @@
-# M5Stack MultiApp Advanced  ![](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_5.svg)
+# M5Stack MultiApp Advanced  ![img](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_5.svg)
 
 [中国区戳我](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced)
+
+![img](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_card.svg?colors=4183c4,000000,000000,ffffff,ffffff,bdb7b7)
+
+------------------------------------------------------------------------------------------------------------------------------------
 
   ### Using this app, M5Stack can run all included apps without reflashing/rebooting
    #### - This is the continued development of the original M5Stack MultiApp firmware
