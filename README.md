@@ -1,4 +1,4 @@
-# M5Stack MultiApp Advanced  ![IMG_LOST_ERROR](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_5.svg)
+# M5Stack MultiApp Advanced  [![Fork me on Gitee](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced/widgets/widget_2.svg)](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced)
 
 [中国区戳我](https://gitee.com/sysdl132/M5Stack-MultiApp-Advanced)
 
